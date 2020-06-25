@@ -4,7 +4,7 @@ A django based web application for logging users' active period. To see it runni
 
 ## Description
 
-This application showcases use of django webframework to create an application for logging users periods of activity. Logs are stored in `user` and `activity_period` tables of the database. It also has a built in program based on django custom management command to populate the database with some dummy data. Finally, it has an api to serve the log data in json format.
+This application showcases use of django webframework to create an application for logging users periods of activity. Logs are stored in `activity_period` table which share a foreign key with `user` table of the database. It also has a built in program based on django custom management command to populate the database with some dummy data. Finally, it has an api to serve the log data in json format. Simulation of activities such as creating users and their corressponding activity periods can be done through a web interface, access of which is provided to only admin and staff users.
 
 ### Prerequisites
 
