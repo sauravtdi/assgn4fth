@@ -1,6 +1,6 @@
 # Activity Logger
 
-A django based web application for logging users' active periods. To see it running, please visit [live.](https://assgn4fth.herokuapp.com/user/) 
+A django based web application for logging users' active periods. To see it running, please visit [live.](https://www.google.com) 
 
 
 ## Description
@@ -82,7 +82,7 @@ python manage.py createsuperuser
 ```
 This command will prompt for `email`, `full name` and `password`. Once successfully created, visit http://localhost:8000/admin/ to login to the interface using the admin-user credentials. The dashboard shows the option to add/change both users and activity periods.
 
-![alt text](/admin_interface.png?raw=true,"admin interface")
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ## Built With
 
