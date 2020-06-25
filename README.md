@@ -60,7 +60,7 @@ Now that database and tables are created, let's populate the database with some 
 ```
 python manage.py populate_db n
 ```
-Note that `n` in the above command is number of users with either `staff` or `nonstaff` authorization that we want to create. The `populate_db` program assigns random start_time and end_time(>start_time) of activity periods for every users created.    
+Note that `n` in the above command is number of users with either `staff` or `nonstaff` authorization. The `populate_db` program assigns random start_time and end_time(>start_time) of activity periods for every users created.    
 
 #### 3. Run the application server
 
