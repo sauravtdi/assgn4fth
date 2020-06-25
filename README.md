@@ -81,9 +81,9 @@ Create an admin user using following command:
 python manage.py createsuperuser
 ```
 This command will prompt for `email`, `full name` and `password`. Once successfully created, visit http://localhost:8000/admin/ to login to the interface using the admin-user credentials. The dashboard shows the option to add/change both users and their activity periods.
-```
-![alt text](https://github.com/[sauravtdi]/[assgn4fth]/blob/master/docs/img/admin_interface.PNG?raw=true)
-```
+
+> ![alt text](https://github.com/sauravtdi/assgn4fth/blob/master/docs/img/admin_interface.PNG?raw=true)
+
 
 ## Built With
 
