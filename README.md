@@ -72,7 +72,7 @@ This command will run the application on localhost at port 8000.
 
 #### 4. View results
 
-To see the users and their activity periods in json format, visit http://localhost:8000/users/.
+To see the users and their activity periods in json format, visit ht<span>tp://</span>localhost:8000/users/.
 
 #### 5. Check admin interface for creating more users and their activity periods - optional
 
