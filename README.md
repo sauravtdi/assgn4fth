@@ -1,4 +1,4 @@
-# Activity Log
+# Activity Period Log
 
 A django based web application for logging users' active period.
 
