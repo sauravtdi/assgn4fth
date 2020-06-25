@@ -83,10 +83,14 @@ python manage.py createsuperuser
 This command will prompt for `email`, `full name` and `password`. Once successfully created, visit http://localhost:8000/admin/ to login to the interface using the admin-user credentials. The dashboard shows the option to add/change both users and activity periods.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![alt text](/docs/img/admin_interface.png?raw=true,"admin interface")
 =======
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 >>>>>>> 678e7c3616d76bbdeaf0d369f9530269c1f5bf88
+=======
+![alt text](/docs/img/admin_interface.png?raw=true,"admin interface")
+>>>>>>> d8e590c3b2aed229d6e595746ce2eb73bb63300b
 
 ## Built With
 
