@@ -51,7 +51,7 @@ To run this application, we have to create database and tables first using comma
 ```
 python manage.py migrate
 ```
-This command makes sure that all relevant tables are created in the database. Note: migrate command works only when we have migration files built already in the project. Check in the user folder to see whether we have migrations folder with files such as `0001_initial.py`. If not run command `python manage.py makemigrations`
+This command makes sure that all relevant tables are created in the database. Note: migrate command works only when we have migration files built already in the project. Check in the user folder to see whether we have migrations folder with files such as `0001_initial.py`. If not run command `python manage.py makemigrations` before `python manage.py migrate`.
 
 #### 2. Populating data to the database
 
