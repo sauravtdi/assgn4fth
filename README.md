@@ -1,6 +1,6 @@
-# Project Title
+# Activity Log
 
-One Paragraph of project description goes here
+A django based web application for logging users' active period.
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ Give examples
 A step by step series of examples that tell you how to get a development env running
 
 Say what the step will be
-
+Before we start, we need to create a virtualenv for our app, so open up your Command Prompt (for Windows) or Terminal (for Mac, Linux) and type the following:
 ```
 Give the example
 ```
@@ -58,21 +58,19 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Django](https://docs.djangoproject.com/en/3.0/) - The web framework used
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md] for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Saurav Suman** 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -82,7 +80,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Thanks to all active community of developers for sharing their knowledge on platforms such as Stack Overflow.
 
