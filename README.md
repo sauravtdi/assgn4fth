@@ -18,6 +18,10 @@ Give examples
 
 A step by step series of examples that tell you how to get a development env running
 
+#### step 1
+
+Create a virtual environment using the following command:
+
 Say what the step will be
 Before we start, we need to create a virtualenv for our app, so open up your Command Prompt (for Windows) or Terminal (for Mac, Linux) and type the following:
 ```
