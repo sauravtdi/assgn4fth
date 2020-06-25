@@ -80,7 +80,7 @@ Create an admin user using following command:
 ```
 python manage.py createsuperuser
 ```
-This command will prompt for `email`, `full name` and `password`. Once successfully created, visit http://localhost:8000/admin/ to login to the interface using the admin-user credentials. The dashboard shows the option to add/change both users and their activity periods. See [reference.](./docs/img/admin_interface.PNG)
+This command will prompt for `email`, `full name` and `password`. Once successfully created, visit ht<span>tp://</span>localhost:8000/admin/ to login to the interface using the admin-user credentials. The dashboard shows the option to add/change both users and their activity periods. See [reference.](./docs/img/admin_interface.PNG)
 
 ## Built With
 
