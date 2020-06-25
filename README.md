@@ -60,19 +60,9 @@ Add additional notes about how to deploy this on a live system
 
 * [Django](https://docs.djangoproject.com/en/3.0/) - The web framework used
 
-## Contributing
-
-Please read [CONTRIBUTING.md] for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
-* **Saurav Suman** 
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Saurav Suman**(https://www.linkedin.com/in/saurav-suman-980120/) 
 
 ## License
 
