@@ -62,7 +62,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Saurav Suman(https://www.linkedin.com/in/saurav-suman-980120/)**
+* **[Saurav Suman](https://www.linkedin.com/in/saurav-suman-980120/)**
 
 ## License
 
