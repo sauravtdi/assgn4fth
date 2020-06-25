@@ -1,9 +1,9 @@
-# Activity Logger
+## Activity Logger
 
 A django based web application for logging users' active periods. To see it running, please visit [live.](https://assgn4fth.herokuapp.com/user/) 
 
 
-## Description
+### Description
 
 This application showcases use of django webframework to create an application for logging users periods of activity. Logs are stored in `activity_period` table which share a foreign key with `user` table of the database. It also has a built in program based on django custom management command to populate the database with some dummy data. Finally, it has an api to serve the log data in json format. Simulation of activities such as creating users and their corressponding activity periods can be done through a web interface, access of which is provided to only admin and staff users.
 
@@ -82,19 +82,19 @@ python manage.py createsuperuser
 ```
 This command will prompt for `email`, `full name` and `password`. Once successfully created, visit ht<span>tp://</span>localhost:8000/admin/ to login to the interface using the admin-user credentials. The dashboard shows the option to add/change both users and their activity periods. See [reference.](./docs/img/admin_interface.PNG)
 
-## Built With
+### Built With
 
 * [Django](https://docs.djangoproject.com/en/3.0/) - The web framework used
 
-## Authors
+### Authors
 
 * **[Saurav Suman](https://www.linkedin.com/in/saurav-suman-980120/)**
 
-## License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+### Acknowledgments
 
 * Thanks to all active community of django developers for sharing their knowledge on various platforms such as [Stack Overflow.](https://stackoverflow.com/questions/tagged/django)
 
