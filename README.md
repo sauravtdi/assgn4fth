@@ -1,6 +1,7 @@
-# Activity Period Log
+# Activity Logger
 
-A django based web application for logging users' active period. To see it running, please click on [live.](https://www.google.com)   
+A django based web application for logging users' active period. To see it running, please click on [live.](https://www.google.com) 
+
 
 ## Description
 
